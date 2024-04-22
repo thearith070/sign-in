@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639196752818",
+    "project_id": "sign-in2-d3040",
+    "storage_bucket": "sign-in2-d3040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639196752818:android:e5a4eb16cda462f66fd2ab",
+        "android_client_info": {
+          "package_name": "thearithtech.me.firebasesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMClSmrYOFAlA0BOmrx5RFueKfCJjuVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
